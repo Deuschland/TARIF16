@@ -14,7 +14,7 @@ const categories = {
       "Zusatztext für Rechnung": ""
     },
     subOptions: [
-      { label: "3 - Tragestuhl", Tarif: "9211", icon: "fa-wheelchair" },
+      { label: "3 - Tragestuhl", Tarif: "9211", icon: "" }, // fa-wheelchair
       { label: "4 - gehfähig", Tarif: "9111", icon: "fa-person-walking" },
       { label: "5 - Rollstuhl", Tarif: "9711", icon: "fa-wheelchair-move" }
     ]
