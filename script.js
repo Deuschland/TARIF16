@@ -44,7 +44,7 @@ const categories = {
       "Statistik": "93",
       "Zusatzfeld": "",
       "Tarif": "2800",
-      "Zusatztext для Rechnung": "HOCH HELFЕН"
+      "Zusatztext für Rechnung": "HOCH HELFЕН"
     }
   },
   "HAUSNOTRUF": {
@@ -58,7 +58,7 @@ const categories = {
       "Statistik": "89",
       "Zusatzfeld": "8",
       "Tarif": "8609",
-      "Zusatztext для Rechnung": "HNR NR."
+      "Zusatztext für Rechnung": "HNR NR._ _ _ _ _"
     }
   },
   "ZFP Reichenau": {
